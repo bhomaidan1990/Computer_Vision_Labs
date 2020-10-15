@@ -8,7 +8,7 @@ Repository for the Labs of the [Computer Vision course](http://crowley-coutaz.fr
 
 ## Labs:
 
-1. First Lab.
-2. Second Lab.
+1. [First Lab](https://github.com/bhomaidan1990/Computer_Vision_Labs/blob/main/CV_Lab_1.ipynb).
+2. [Second Lab](https://github.com/bhomaidan1990/Computer_Vision_Labs/blob/main/CV_Lab_2.ipynb).
 
 ![CV](https://skywell.software/wp-content/uploads/2019/07/computer-vision-machine-learning-1024x630.jpg)

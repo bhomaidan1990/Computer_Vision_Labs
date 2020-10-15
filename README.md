@@ -3,8 +3,8 @@ Repository for the Labs of the [Computer Vision course](http://crowley-coutaz.fr
 
 ## Students:
 
-1. Belal HNEDAN
-2. Junyi ZHONG 
+1. **Belal HNEDAN**
+2. **Junyi ZHONG** 
 
 ## Labs:
 
